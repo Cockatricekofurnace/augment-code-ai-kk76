@@ -1,4 +1,4 @@
-# 
+# Premium Augment Code preajustes. Con monitoreo de modelos y código abierto — optimizado para el máximo rendimiento y eficiencia.
 
 
 
